@@ -1,0 +1,73 @@
+@import 'fonts.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Geometria';
+}
+body {
+  background-color: rgb(220, 167, 115);
+}
+
+.close {
+  position: absolute;
+  right: 60px;
+  top: 35px;
+  width: 50px;
+  height: 50px;
+  opacity: 0.3;
+    &:hover {
+      opacity: 1;
+    }
+    &:before {
+      position: absolute;
+      left: 50%;
+      content: ' ';
+      height: 100%;
+      width: 2px;
+      background-color: #333;
+    }
+    &:after {
+      position: absolute;
+      left: 50%;
+      content: ' ';
+      height: 100%;
+      width: 2px;
+      background-color: #333;
+      }
+
+    &:before {
+      transform: rotate(45deg);
+    }
+    &:after {
+      transform: rotate(-45deg);
+    }
+  }
+  
+  
+  
+.App {
+  background-color: #FFF;
+  text-align: center;
+  margin: 100px 50px;
+  border-radius: 15px;
+  padding: 40px 64px 40px 150px;
+  box-shadow: 4px 4px 12px 6px rgba(34, 60, 80, 0.3);
+}
+
+.title {
+  font-weight: 900;
+  font-size: 68px;
+  margin-bottom: 20px;
+
+    &--bottom {
+      margin-bottom: 8px;
+    }
+}
+
+.subtitle {
+  font-weight: normal;
+  letter-spacing: -0.5px;
+  margin-bottom: 44px;
+}
