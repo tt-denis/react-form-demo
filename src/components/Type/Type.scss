@@ -33,6 +33,12 @@
   border-radius: 15px;
   font-weight: 700;
   transition: 0.3s;
+  &--click, --click * {
+    fill: #FFF;
+    background-color: #9C5D9A;
+    border: none;
+  }
+  
   &:hover {
     background-color: #9C5D9A;
     border: none;
@@ -40,6 +46,7 @@
   &:hover * {
     fill: #FFF;
   }
+
 }
 
 .img * {

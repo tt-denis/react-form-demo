@@ -1,9 +1,7 @@
 import React from 'react';
 import './App.scss';
 import Form from '../Form';
-import Button from '../Button';
 import Type from '../Type';
-import Payment from '../Puyment';
 
 const App: React.FC = () => (
   <>
@@ -12,7 +10,12 @@ const App: React.FC = () => (
       <h2 className="title">
         Заповніть форму
       </h2>
-      <Button />
+      <button
+        type="button"
+        className="button"
+      >
+        Фіз.особа
+      </button>
       <Form />
       <h2 className="title title--bottom">
         Види допомоги
@@ -21,7 +24,6 @@ const App: React.FC = () => (
         Ви можете змінити вид допомоги
       </h3>
       <Type />
-      <Payment />
     </div>
   </>
 );
