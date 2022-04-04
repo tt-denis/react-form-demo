@@ -5,7 +5,7 @@ Write here about your project in two-three sentences.
 
 ## Used stack
 
-React, TS
+* React, TS
 
 ### Dependencies
 
