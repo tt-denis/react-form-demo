@@ -1,7 +1,7 @@
 # Project React-form-demo
 
 Write here about your project in two-three sentences.
-- [DEMO LINK](https://tt-denis.github.io/react-form-demo/)
+- [DEMO LINK](<https://tt-denis.github.io/react-form-demo/>)
 
 ## Used stack
 
@@ -22,4 +22,4 @@ Write here about your project in two-three sentences.
 ## Troubleshooting
 
 Any advise for common problems or issues.
-For any contributing or problem solving you could find me [here](https://t.me/denis_stepanov_tt/) and [here](denis.stepanov.tt@gmail.com)
+For any contributing or problem solving you could find me [here](https://t.me/denis_stepanov_tt/) and E-mail: denis.stepanov.tt@gmail.com
