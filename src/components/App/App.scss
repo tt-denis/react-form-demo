@@ -50,7 +50,7 @@ body {
 .App {
   background-color: #FFF;
   text-align: center;
-  margin: 100px 50px;
+  margin: 100px 50px 50px;
   border-radius: 15px;
   padding: 40px 64px 40px 150px;
   box-shadow: 4px 4px 12px 6px rgba(34, 60, 80, 0.3);
@@ -82,4 +82,22 @@ body {
   color: #FFF;
   font-family: 'Geometria';
   font-weight: 700;
+  
+  &--help {
+    margin-right: 80px;
+    margin-bottom: 0;
+    font-size: 24px;
+    font-weight: 700;
+    border-radius: 15px;
+    width: 320px;
+    height: 70px;
+    border: none;
+    background: linear-gradient(90deg,#d14959,#b55271 51%,#8c699d);
+    transition: 0.3s;
+    &:hover {
+      -webkit-box-shadow: 0px 0px 12px 7px rgba(80, 34, 66, 0.5);
+      -moz-box-shadow: 0px 0px 12px 7px rgba(80, 34, 66, 0.5);
+      box-shadow: 0px 0px 12px 7px rgba(80, 34, 66, 0.5);;
+    }
+  }
 }
