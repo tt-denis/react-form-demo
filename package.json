@@ -1,6 +1,6 @@
 {
-  "name": "test_react_1",
-  "homepage": "https://tt-denis.github.io/test_react_1",
+  "name": "react-form-demo",
+  "homepage": "https://tt-denis.github.io/react-form-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
