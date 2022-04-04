@@ -1,7 +1,7 @@
 # Project React-form-demo
 
 Write here about your project in two-three sentences.
-- [DEMO LINK](https://tt-denis.github.io/test_react_1/)
+- [DEMO LINK](https://tt-denis.github.io/react-form-demo/)
 
 ## Used stack
 
