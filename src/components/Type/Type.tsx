@@ -64,13 +64,6 @@ const Type: React.FC = () => {
       </div>
 
       {typeSelect && <Payment />}
-
-      <button
-        type="button"
-        className="button button--help"
-      >
-        Допомогти
-      </button>
     </>
   );
 };

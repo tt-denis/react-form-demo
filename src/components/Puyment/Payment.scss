@@ -39,7 +39,7 @@
   align-items: center;
   gap: 20px;
   width: 50%;
-  height: 200px;
+  min-height: 200px;
 }
 
 .card {
@@ -113,7 +113,9 @@
     &:hover {
       background-color: #9C5D9A;
     }
-
+    &--checked {
+      background-color: #9C5D9A
+    }
     &__title {
       font-size: 12px;
     }
