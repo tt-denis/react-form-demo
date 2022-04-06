@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-form-demo/static/css/main.9b68fba3.css",
-    "main.js": "/react-form-demo/static/js/main.c845b37d.js",
+    "main.css": "/react-form-demo/static/css/main.cca5fbd2.css",
+    "main.js": "/react-form-demo/static/js/main.381e55d4.js",
     "static/media/Geometria.eot": "/react-form-demo/static/media/Geometria.ec72236ac2f09649ba95.eot",
     "static/media/Geometria.ttf": "/react-form-demo/static/media/Geometria.0db3c3ee492d73b6c683.ttf",
     "static/media/Geometria-Light.eot": "/react-form-demo/static/media/Geometria-Light.dde3a382a2f9bf50fb9b.eot",
@@ -30,11 +30,11 @@
     "static/media/heart.svg": "/react-form-demo/static/media/heart.0c43257f0589ec5257f6a59936833d27.svg",
     "static/media/paypal.svg": "/react-form-demo/static/media/paypal.f1ecca327ca74b691f2660f391b55b30.svg",
     "index.html": "/react-form-demo/index.html",
-    "main.9b68fba3.css.map": "/react-form-demo/static/css/main.9b68fba3.css.map",
-    "main.c845b37d.js.map": "/react-form-demo/static/js/main.c845b37d.js.map"
+    "main.cca5fbd2.css.map": "/react-form-demo/static/css/main.cca5fbd2.css.map",
+    "main.381e55d4.js.map": "/react-form-demo/static/js/main.381e55d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b68fba3.css",
-    "static/js/main.c845b37d.js"
+    "static/css/main.cca5fbd2.css",
+    "static/js/main.381e55d4.js"
   ]
 }
